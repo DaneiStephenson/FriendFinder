@@ -1,0 +1,23 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaneiStephenson/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaneiStephenson/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/DaneiStephenson/FriendFinder#readme",
+  "dependencies": {
+    "node": "0.0.0",
+    "server": "^1.0.0-alpha.16"
+  }
+}
