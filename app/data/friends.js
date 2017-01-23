@@ -2,7 +2,7 @@ var friends = [
 {
 name: "Mojito",
 photo: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfuGLT4QGCzGj4DTiWepeTJ0rPDcQw8kCTL9UTt64lkdit1im8GPcIZmzkYw",
-scores: '10'
+score: '10'
 },
 {
 name: "FRozen Daiquiri",
