@@ -8,7 +8,7 @@ scores: '10'
 name: "FRozen Daiquiri",
 photo: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwKYafAhz-vUMt8r8Oxg-8l5xgskN8LmJHOvl_PQYO_rphSyDMFdPrWiM",
 score: '20'
-]
+
 },
 {
 name: "Whiskey Sour",
