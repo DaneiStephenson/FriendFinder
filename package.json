@@ -1,5 +1,5 @@
 {
-  "name": "bestfriendfinder",
+  "name": "drinksfor lokos",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vbelephants/FriendFinder.git"
+    "url": "github.com/DaneiStephenson/FriendFinder.git"
   },
   "keywords": [
     "express",
     "path",
     "body-parser"
   ],
-  "author": "Vincent Vang",
+  "author": "Danei Stephenson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vbelephants/FriendFinder/issues"
+    "url": "https://github.com/DaneiStephenson/FriendFinder/issues"
   },
-  "homepage": "https://github.com/vbelephants/FriendFinder#readme",
+  "homepage": "https://github.com/DaneiStephenson/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.16.0",
     "express": "^4.14.0",
