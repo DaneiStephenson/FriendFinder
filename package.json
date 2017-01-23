@@ -1,5 +1,5 @@
 {
-  "name": "d",
+  "name": "bestfriendfinder",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,21 +9,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DaneiStephenson/FriendFinder.git"
+    "url": "git+https://github.com/vbelephants/FriendFinder.git"
   },
-  "author": "",
+  "keywords": [
+    "express",
+    "path",
+    "body-parser"
+  ],
+  "author": "Vincent Vang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DaneiStephenson/FriendFinder/issues"
+    "url": "https://github.com/vbelephants/FriendFinder/issues"
   },
-  "homepage": "https://github.com/DaneiStephenson/FriendFinder#readme",
+  "homepage": "https://github.com/vbelephants/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.16.0",
     "express": "^4.14.0",
-    "path": "^0.12.7",
-
+    "path": "^0.12.7"
   },
   "engines": {
-    "node": "v6.9.2"
+    "node": "6.6.0"
   }
 }
