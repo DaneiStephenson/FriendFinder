@@ -1,0 +1,36 @@
+body {
+    background-image: url("http://northstateparent.com/parent-to-parent/wp-content/uploads/2013/02/calm-seas.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 20;
+    }
+
+.container {
+	text-align: center;
+	border-radius: 10px;
+	margin-top: 10%;
+	width: 400px;
+	height: 100px;
+	margin-left: 36%;
+ color: white;
+
+ background-color: black;
+	
+	;
+
+}
+  h1 {
+    margin-top: 0px;
+  	  	font-size: 50px !important;
+  }
+
+
+footer{
+  min-height: 100%;
+  height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
+  height: 100%;
+
+    background-color: rgba(179, 209, 255,0.5);
+}
