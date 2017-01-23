@@ -1,13 +1,13 @@
 var path = require('path');
-var drinksArray = require('./../data/friends.js');
+var friends = require('./../data/friends.js');
 
 Array.prototype.min = function() {
     return Math.min.apply(null, this);
 };
 
 var friendscores = [];
-for (var i=0; i<drinksArray.length; i++) {
-    friendscores.push(drinksArray[i].score);
+for (var i=0; i<friends.length; i++) {
+    friendscores.push(friends[i].score);
 }
 
 module.exports = function(app){

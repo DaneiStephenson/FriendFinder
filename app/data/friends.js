@@ -1,4 +1,4 @@
-var drinksArray = [
+var friends = [
 {
 name: "Mojito",
 photo: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfuGLT4QGCzGj4DTiWepeTJ0rPDcQw8kCTL9UTt64lkdit1im8GPcIZmzkYw",
@@ -27,4 +27,4 @@ score: '50'
 	},
 ]
 
-module.exports = drinksArray;
+module.exports = friends;
